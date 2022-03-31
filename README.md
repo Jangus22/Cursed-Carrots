@@ -6,3 +6,7 @@ Our artistic video game - play as a carrot farmer, defending your crops against 
 
 
 Defend your carrot garden from the corrupted, cursed, carrot-thieving grabbits - NOW
+
+
+Preview the game here!
+https://devpost.com/software/cursed-carrots
